@@ -1,0 +1,23 @@
+{
+  "seed": 23,
+  "velocity_normal": {
+    "loc": 70,
+    "scale": 10,
+    "size": 500
+  },
+  "velocity_uniform": {
+    "low": 50.0,
+    "high": 100.0,
+    "size": 500
+  },
+  "angle_normal": {
+    "loc": 60,
+    "scale": 15,
+    "size": 500
+  },
+  "angle_uniform": {
+    "low": 30.0,
+    "high": 90.0,
+    "size": 500
+  }
+}
