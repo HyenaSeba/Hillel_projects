@@ -104,3 +104,15 @@ Make 3 jupyter notebooks for classification of 3 datasets (one notebook for one 
 
 - Negative/Positive review classification
 
+**13. RNN**
+
+- Negative/Positive review classification based on RNN
+
+**14. Use Transformer: Translation**
+
+- Based on the T5 (or any other) model from the HuggingFace library, make a translator
+
+**15. Text classification**
+
+- Negative/Positive review classification using SpaCy
+
